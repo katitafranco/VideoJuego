@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQNABAAAAAAAP//DwAAAAD/z/z/D/APAP///O7////w////Tu/+//D/zP/vTuQP8P/P/xtO5A/w/////+T+D/DP/+5O5Gf/8P/87070Z/8A/8///////wDwz///APAPAAD//wAAAAAAAPAPAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "villager2WalkRight2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
